@@ -14,13 +14,10 @@ Planned Features:
     - Given a key word what type of products did other kids ask for. (Given a word like Lego it can output back what lego sets other kids asked for)
     - Is the product your looking at online or available to ship. 
 
+
 Data Base Links:
     Christmas Sales and Trends - https://www.kaggle.com/datasets/ibikunlegabriel/christmas-sales-and-trends
-    
     US Christmas Tree Sales Data - https://www.kaggle.com/datasets/thedevastator/us-christmas-tree-sales-data
-
     Letters to Santa: Analyzing Kids Christmas Wishes - https://www.kaggle.com/datasets/jijagallery/the-magic-of-christmas-kids-letters-to-santa
-    
     Naughty or Nice List - https://www.kaggle.com/datasets/csafrit2/naught-or-nice-list-2021
-    
     Christmas Quotes - https://www.kaggle.com/datasets/ikpeleambrose/christmas-quotes
