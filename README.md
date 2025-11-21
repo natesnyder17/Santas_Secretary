@@ -6,7 +6,7 @@ Date: 11/18/2025
 
 Brief Summary:
     - This project is meant to be a companion app to help people for christmas shopping. This includes which places offer the most discounts and when, what kids have been asking for recently (needs a keyword like Lego, Game, or Plushie), and what type of Christmas tree is most popular and it's average price. 
-    - I used three databases (Christmas Sales and Trends, Christmas Tree Sales Data, and Letters to Santa: Analyzing Kids Christmas Wishes)
+    - I used 5 databases (Christmas Sales and Trends, Christmas Tree Sales Data, and Letters to Santa: Analyzing Kids Christmas Wishes, Naughty Or Nice List, and Christmas Quotes)
 
 Planned Features:
     - Most Popular Christmas Tree and average prices for each type.
