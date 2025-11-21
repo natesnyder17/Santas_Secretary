@@ -5,7 +5,7 @@ Class: CS3620
 Date: 11/18/2025
 
 Brief Summary:
-    - This project is meant to be a companion app to help people for christmas shopping. This includes which places offer the most discounts and when, what kids have been asking for recently (needs a keyword like Lego, Game, or Plushie), and what type of Christmas tree is most popular and it's average price. 
+    - This project is meant to be a companion app to help people for christmas shopping. This includes a customizable christmas list, what kids have been asking for recently (needs a keyword like Lego, Game, or Plushie), and what type of Christmas tree is most popular and it's average price. Also includes some data bases for fun like the naughty or nice list and the christmas quotes database these are used in conjunction with the others to make the application more christmas themes by including a quote of the day and a generated santa's list which includes what "santa" whould get you and if you were naughty or nice this year.
     - I used 5 databases (Christmas Sales and Trends, Christmas Tree Sales Data, and Letters to Santa: Analyzing Kids Christmas Wishes, Naughty Or Nice List, and Christmas Quotes)
 
 Planned Features:
