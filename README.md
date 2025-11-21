@@ -1,5 +1,5 @@
 
-Project Name: Christmas Companion
+Project Name: Santas Secretary
 Author: Nathaniel Snyder
 Class: CS3620
 Date: 11/18/2025
